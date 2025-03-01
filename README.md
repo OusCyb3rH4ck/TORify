@@ -26,7 +26,8 @@ A script that routes all system traffic through the TOR network, acting like a V
     ![image](https://github.com/user-attachments/assets/3c628494-735e-4c47-b32a-0c58a8988485)
 
   2. Use "NetCat" to force a node or IP change
-      2.1: Create a hash with the password to connect
+
+     2.1: Create a hash with the password to connect
        ```bash
         tor --hash-password "test123"
        ```
