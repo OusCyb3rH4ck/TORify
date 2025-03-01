@@ -21,7 +21,7 @@ A script that routes all system traffic through the TOR network, acting like a V
 #### Disconnect
 - `sudo ./torify.py -d`
 
-### Instructions if the IP does not change with the '-c' parameter
+## Instructions if the IP does not change with the '-c' parameter
   1. Change country by modifying the "**/etc/tor/torrc**" file
     ![image](https://github.com/user-attachments/assets/3c628494-735e-4c47-b32a-0c58a8988485)
 
