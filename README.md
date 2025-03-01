@@ -7,7 +7,7 @@ A script that routes all system traffic through the TOR network, acting like a V
 - `git clone https://github.com/OusCyb3rH4ck/TORify`
 - `cd TORify`
 - `sudo python3 -m pip install --break-system-packages --upgrade pwn colorama requests argparse`
-- `chmod +x TORify`
+- `chmod +x torify.py`
 
 ## Usage (run as root or use "sudo")
 - `sudo ./torify.py`
