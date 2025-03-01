@@ -15,7 +15,7 @@ A script that routes all system traffic through the TOR network, acting like a V
 #### Show available countries:
 - `sudo ./torify.py -sc`
 #### Connect to TOR (like a VPN)
-- `sudo ./torify.py -s` and put the country codename.
+- `sudo ./torify.py -s` and put the country codename when asked.
 #### Change the IP using the same country
 - `sudo ./torify.py -c `
 #### Disconnect
